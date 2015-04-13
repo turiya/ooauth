@@ -1,0 +1,1 @@
+Ooauth implements the OAuth protocol in OCaml. It supports both service providers and consumers, with all signature methods.
